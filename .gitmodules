@@ -1,0 +1,6 @@
+[submodule "stosSubmodule"]
+	path = stosSubmodule
+	url = https://github.com/KTaraszkiewicz/Stos.git
+[submodule "skryptSubmodule"]
+	path = skryptSubmodule
+	url = https://github.com/KTaraszkiewicz/Skrypty.git
